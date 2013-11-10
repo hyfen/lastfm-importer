@@ -22,3 +22,7 @@ After running ```load_all```, all history will be available in an array ```liste
 * artist_name
 * artist_lastfm_mbid
 * listened_at
+
+### Potential Uses
+
+![alt text](https://dl.dropboxusercontent.com/u/1144778/Graphs/Screen%20Shot%202013-08-11%20at%205.44.30%20PM.png "New artists per month")
